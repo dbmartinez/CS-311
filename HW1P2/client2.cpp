@@ -1,10 +1,3 @@
-//=========================================================
-//HW#: HW1P2 queue application (generate all strings)
-//Your name: Daniel B. Martinez
-//Complier: g++
-//File type: client program client2.cpp
-//=========================================================
-
 using namespace std;
 #include <iostream>
 #include <stdlib.h>
