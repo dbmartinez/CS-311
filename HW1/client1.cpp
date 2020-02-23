@@ -1,15 +1,3 @@
-//CS311 Yoshii
-//INSTRUCTION:
-//Look for ** to complete this program (Use control-S)
-//The output should match my hw1stackDemo.out 
-
-//=========================================================
-//HW#: HW1P1 stack application (post-fix evaluation)
-//Your name: Daniel B. Martinez
-//Complier: g++
-//File type: client program client1.cpp
-//===========================================================
-
 using namespace std;
 #include <iostream>
 #include <stdlib.h>
