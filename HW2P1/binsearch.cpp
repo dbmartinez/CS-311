@@ -1,8 +1,3 @@
-//--------------------------------------------
-// CS311 HW2P1 Binary Search
-// Name: Daniel B. Martinez
-// Compiler: g++
-//-------------------------------------------- 
 using namespace std;
 #include <iostream>
 #include <cmath>
