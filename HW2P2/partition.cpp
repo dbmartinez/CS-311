@@ -1,11 +1,3 @@
-// You may not change my code in any manner.  0 pts if you do.
-// Simply add your code for **
-
-//----------------------------------------
-//CS311 HW2P2 Partition
-//Name: Daniel B. Martinez
-//Compiler: g++
-//-----------------------------------------
 using namespace std;
 #include <iostream>
 // Purpose: Demonstrate the Quicksort algorithm with partition
