@@ -1,18 +1,3 @@
-//CS311 Yoshii 
-//INSTRUCTION:
-// Look for ** to complete the program (do control-S)
-// Update the comments using the HOW TO COMMENT file, 
-// When done, compile stack.cpp to make sure there are no syntax errors.
-// NOTE: functions are called instead of repeating
-// the same lines of code.
-  
-//=========================================================
-//HW#: HW1P1 stack
-//Your name: Daniel B. Martinez
-//Complier: g++
-//File type: stack implementation file stack.cpp
-//=========================================================
-
 using namespace std;  
 #include <iostream>
 #include "stack.h"
