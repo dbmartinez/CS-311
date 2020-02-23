@@ -1,15 +1,3 @@
-// CS311 Yoshii
-// INSTRUCTION:
-// QUEUE class - header file template based on Notes-2A
-// Look for ** and complete them 
-
-// =====================================================
-// HW#: HW1P2 queue
-// Your name: Daniel B. Martinez
-// Compiler:  g++ compiler
-// File type: queue header file queue.h
-//=====================================================
-
 using namespace std;
 #include<string>
 
