@@ -1,15 +1,3 @@
-//INSTRUCTION:
-//Look for ** using control-S
-//Then, fill in the function body
-//When done, compile queue.cpp to make sure it has no syntax errors
-
-//=========================================================
-//HW#: HW1P2 queue
-//Your name: Daniel B. Martinez
-//Complier: g++
-//File type: queue program queue.cpp
-//===========================================================
-
 using namespace std;
 #include <iostream>
 #include "queue.h"  
