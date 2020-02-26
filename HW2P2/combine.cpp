@@ -1,3 +1,6 @@
+// Issue... this displays the max amount of comparisons
+// instead of the correct amount
+
 using namespace std;
 #include <iostream>
 #include <vector>
