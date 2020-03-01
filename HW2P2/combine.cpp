@@ -1,4 +1,4 @@
-//Issue: this display the max amount of comparisons
+//Issue: this displays the max amount of comparisons
 // not the correct amount in the sort
 
 using namespace std;
