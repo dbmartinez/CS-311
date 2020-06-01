@@ -1,14 +1,3 @@
-//CS311 Yoshii dgraph.cpp 
-// INSTRUCTION:
-//  Complete all the functions you listed in dgraph.h
-//  Comment the file completely using How to Comment file.
-//  Use HW6-help.docx to finish the functions.
-
-//======================================================
-// HW#: HW6 dgraph
-// Name: Daniel B. Martinez
-// File Type: dgraph.h
-//========================================================
 using namespace std;
 #include "dgraph.h"
 #include <iostream>
