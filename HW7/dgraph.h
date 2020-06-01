@@ -1,16 +1,3 @@
-// CS311 Yoshii dgraph.h that uses slist.h
-// INSTRUCTION:
-//  You need to comment this file completely
-//  using the How to Comment file.
-//  You have seen many examples so far.
-//  We will check to see how well you have commented it.
-//-----------------------------------------------------
-
-// =======================================================
-// HW#: HW6 dgraph
-// Name: Daniel B. Martinez
-// File Type: dgraph.h slist.h
-// ==================================================
 #include <iostream>
 #include "slist.h"
 using namespace std;
