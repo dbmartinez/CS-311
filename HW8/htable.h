@@ -1,5 +1,3 @@
-// CS311 Yoshii - Hash Table header DO NOT CHANGE!!! 
-// ------------------------------------------------
 #include "slist.h"
 
 const int TSIZE = 37;     // 37 slots ; a prime number 
