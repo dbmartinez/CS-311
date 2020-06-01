@@ -1,9 +1,3 @@
-// CS311 Yoshii
-// - header file for priority printer queue HW5 
-// - heaptree priority queue impleneted using an array
-// DO NOT CHANGE!!!
-// ---------------------------------------------
-
 #include <iostream>
 using namespace std;
 
