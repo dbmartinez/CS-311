@@ -1,16 +1,3 @@
-//CS311 Yoshii
-//INSTRUCTION:
-//Llist class - header file template 
-//You must complete the ** parts and then complete llist.cpp
-//Don't forget PURPOSE and PARAMETERS 
-
-// =======================================================
-// HW#: HW3P1 llist
-// Your name: Daniel B. Martinez
-// Compiler:  g++ 
-// File type: headher file  llist.h
-//=======================================================
-
 // alias el_t : element type definition
 typedef int el_t;
 
