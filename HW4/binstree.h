@@ -1,7 +1,3 @@
-// CS311: BST header file for HW4 - by Yoshii - DO NOT CHANGE!!
-// This BST has an Up link to make it easy to go up the tree later 
-//------------------------------------------------------------
-
 // tree element type is int for now
 typedef int elem_t;   // elem_t is hidden from the client
 
@@ -62,5 +58,3 @@ class BST
   // left sub-tree of the vertex and also deletes it
   
 };
-
-
