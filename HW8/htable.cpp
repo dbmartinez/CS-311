@@ -1,12 +1,3 @@
-// CS311 Yoshii - Hash Table - complete all ** parts.
-// Note: this class does not know the parts of element except for key
-// so that it would work even if each element in the hash table changed
-//-----------------------------------------------------
-// ============================================
-// HW#: HW8 Hash Table
-// Name: Daniel B. Martinez
-// File Type: implementation htable.cpp
-// =============================================
 using namespace std;
 #include <iostream>
 #include "htable.h"
