@@ -1,18 +1,3 @@
-//CS311 Yoshii 
-//INSTRUCTION:
-//Stack class header file template based on Notes-1
-//You must complete the ** parts and then complete stack.cpp
-//EMACS HINT:
-//  control-S does searches
-//  Tab on each line will indent perfectly for C++
-
-// =======================================================
-// HW#: HW1P1 stack
-// Your name: Daniel B. Martinez
-// Compiler: g++
-// File type: header file stack.h
-//=======================================================
-
 //----- Globally setting up the aliases ----------------
 
 const int MAX = 10;   // The MAX number of elements for the stack
