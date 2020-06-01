@@ -46,5 +46,3 @@ class dgraph
   // returns true if givena vertex that was already visited
   bool isMarked(char);
 };
-
-
