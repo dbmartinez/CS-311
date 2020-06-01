@@ -1,12 +1,3 @@
-// CS311 Yoshii Complete all functions with their comments
-
-//====================================================
-//HW#: HW3P1 slist  inheriting from llist
-//Your name: Daniel B. Martinez
-//Complier:  g++
-//File type: slist.cpp implementation file
-//====================================================
-
 using namespace std;
 #include<iostream>
 #include"slist.h" 
